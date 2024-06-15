@@ -60,6 +60,3 @@ The data required for this dashboard will be sourced from our internal sales dat
 
 ---
 
-We hope this Car Sales Dashboard helps you gain valuable insights into your sales performance and drives your business towards success. If you have any questions or need further assistance, feel free to contact us.
-
-Happy analyzing!
